@@ -1,9 +1,7 @@
 def display():
-    print("Your name is:",input("Enter your name: "))
+    print("Your name is: Harshith")
     
 display()
-
-marks = int(input("Enter your mark: "))
 
 print("Hi from main_updated")
 print("Hi from branch")
