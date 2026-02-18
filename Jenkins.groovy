@@ -12,7 +12,7 @@ pipeline{
                 echo 'B0'
             }
         }
-        stage('b'){
+        stage('c'){
             steps{
                 echo 'C0'
             }
