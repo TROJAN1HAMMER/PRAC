@@ -5,4 +5,4 @@ display()
 
 marks = int(input("Enter your mark: "))
 
-print("Hi from main")
+print("Hi from main_updated")
