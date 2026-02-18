@@ -3,17 +3,17 @@ pipeline{
     
     stages{
         stage('A'){
-            step{
+            steps{
                 echo 'A0'
             }
         }
         stage('B'){
-            step{
+            steps{
                 echo 'B0'
             }
         }
         stage('C'){
-            step{
+            steps{
                 echo 'C0'
             }
         }
