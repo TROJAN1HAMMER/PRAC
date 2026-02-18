@@ -6,3 +6,5 @@ display()
 marks = int(input("Enter your mark: "))
 
 print("Hi from main_updated")
+print("Hi from branch")
+print("Merge also hi dude")
