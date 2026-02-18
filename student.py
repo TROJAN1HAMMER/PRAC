@@ -4,3 +4,5 @@ def display():
 display()
 
 marks = int(input("Enter your mark: "))
+
+print("Hi")
